@@ -24,6 +24,7 @@
         android:id="@+id/btnSignup"
         android:layout_width="122dp"
         android:layout_height="66dp"
+        android:onClick="displayNotification"
         android:text="@string/signup"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
